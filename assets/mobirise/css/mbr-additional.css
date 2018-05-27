@@ -1411,6 +1411,7 @@ body {
 }
 .cid-qTh41guozT .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-qTh41guozT h4 {
   text-align: center;
@@ -1421,6 +1422,10 @@ body {
 .cid-qTh41guozT .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-qTh41guozT .card-title,
+.cid-qTh41guozT .card-img {
+  text-align: center;
 }
 .cid-qSVCwSf0UP {
   padding-top: 75px;
